@@ -1,7 +1,8 @@
 ### Hi there 👋
 ## ThreeLiu 👦🏻
 ### Brief introduction
-#### -> A student from Central South University 🥇
+#### -> 2020-2024 Central South University in Changsha,China 🥇
+#### -> 2024-Now HIAS,UCAS in Hangzhou,China 🥇
 #### -> A learner in the AI industry 🧑🏻‍💻
 #### -> Chinese 🀄
 
